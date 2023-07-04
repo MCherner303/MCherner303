@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Morgan from Santa Barbara, California. I come from a background in finance, but I am now embarking on a new career journey to become an AI Engineer. 
+I'm Morgan from Santa Barbara, California. I come from a background in finance, but I am now embarking on a new career journey to become an AI Engineer. I am learning Python currently and am preparing to take am AI/Machine Learning class in the near future at Berkeley. I am looking for help with .    Ask me about my pet parrot Kermit, he is a White Belly Caique that I adopted/rescued. Fun fact : I am painter and visual artist that used to do/have a streetwaer line of clothing featuring my artwork.
 <!--
 **MCherner303/MCherner303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
