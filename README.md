@@ -1,6 +1,13 @@
 ### Hi there 👋
-I'm Morgan from Santa Barbara, California. I come from a background in finance, but I am now embarking on a new career journey to become an AI Engineer. I am learning Python currently and am preparing to take am AI/Machine Learning class in the near future at Berkeley. I am looking for help with .    Ask me about my pet parrot Kermit, he is a White Belly Caique that I adopted/rescued. Fun fact : I am painter and visual artist that used to do/have a streetwaer line of clothing featuring my artwork.
-<!--
+👋 Hello, world! I'm Morgan, a finance professional turned aspiring AI Engineer hailing from the beautiful city of Santa Barbara, California. While my previous experience revolved around the fascinating world of finance, I have set sail on an exciting new career path to delve into the depths of artificial intelligence.
+
+Currently, my journey is anchored in mastering the programming language Python, which forms the foundation for many AI and machine learning applications. I am fully committed to honing my skills and expanding my knowledge in this field, which is why I am eagerly preparing to embark on an upcoming AI/Machine Learning class at Berkeley.
+
+While my focus lies primarily in the realm of AI, I have an intriguing side story to share. If you'd like to veer off the path of technology and delve into a more colorful realm, ask me about my pet parrot, Kermit. Kermit is a White Belly Caique that I had the privilege of adopting and rescuing.
+
+In addition to my passion for all things tech, I possess a creative side that finds expression through painting and visual artistry. In the past, I even had a streetwear line of clothing that featured my unique artwork. 
+
+So, whether you're seeking advice on Python, discussing the intricacies of AI and machine learning, or simply want to share parrot stories or explore the intersection of technology and art, I'm here to connect, collaborate, and grow. Let's embark on this exciting journey together and make remarkable contributions to the world of AI!
 **MCherner303/MCherner303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
