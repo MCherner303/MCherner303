@@ -1,23 +1,14 @@
-### Hi there 👋
-👋 Hello, world! I'm Morgan, a finance professional turned aspiring AI Engineer hailing from the beautiful city of Santa Barbara, California. While my previous experience revolved around the fascinating world of finance, I have set sail on an exciting new career path to delve into the depths of artificial intelligence.
+👋 Hello, world! I'm Morgan, a finance professional turned aspiring AI Engineer from the beautiful city of Santa Barbara, California. While my past career revolved around the dynamic world of finance, I’ve set my sights on an exciting new path—exploring the vast potential of artificial intelligence.
 
-Currently, my journey is anchored in mastering the programming language Python, which forms the foundation for many AI and machine learning applications. I am fully committed to honing my skills and expanding my knowledge in this field, which is why I am eagerly preparing to embark on an upcoming AI/Machine Learning class at Berkeley.
+Currently, I'm focused on applying my knowledge of Python, the foundational language for many AI and machine learning applications, and actively transitioning from study to building a portfolio that demonstrates my skills in technology, finance, and creative problem-solving. My goal is to leverage this portfolio to launch a career where I can blend these diverse skills to create impactful solutions.
 
-While my focus lies primarily in the realm of AI, I have an intriguing side story to share. If you'd like to veer off the path of technology and delve into a more colorful realm, ask me about my pet parrot, Kermit. Kermit is a White Belly Caique that I had the privilege of adopting and rescuing.
+Beyond my focus on AI, I have a few interesting side stories. For instance, I’m the proud owner of a White Belly Caique parrot named Kermit, whom I adopted and rescued. If you're curious about Kermit's adventures, feel free to ask!
 
-In addition to my passion for all things tech, I possess a creative side that finds expression through painting and visual artistry. In the past, I even had a streetwear line of clothing that featured my unique artwork. 
+I'm also passionate about visual arts and creative expression. In the past, I even ran a streetwear line that featured my original artwork—another chapter in my story that reflects my love for blending creativity with technical skill.
 
-So, whether you're seeking advice on Python, discussing the intricacies of AI and machine learning, or simply want to share parrot stories or explore the intersection of technology and art, I'm here to connect, collaborate, and grow. Let's embark on this exciting journey together and make remarkable contributions to the world of AI!
-**MCherner303/MCherner303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Currently Working On:
+🔭 I'm actively building a portfolio of AI and data analytics projects, while honing my expertise in Python and SQL. I’m seeking opportunities to apply my tech, finance, and creative skills in real-world scenarios.
+🌱 I'm continuously learning the latest trends in machine learning and AI, with a focus on creating practical projects that demonstrate my readiness for a career in the field.
+👯 I’m looking to collaborate on open-source AI projects and data analysis initiatives, particularly those with intersections between technology, finance, and creative problem-solving.
+🤔 I’m seeking guidance and feedback on enhancing my GitHub portfolio to showcase my strengths and attract potential employers.
+Whether you're interested in Python, AI, machine learning, or even want to swap stories about parrots or creative endeavors, I'm here to connect, collaborate, and grow. Let’s embark on this exciting journey together and make impactful contributions to the world of AI and beyond!
